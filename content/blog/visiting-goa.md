@@ -1,14 +1,91 @@
 ---
-title: Visiting Goa
+title: Reporte de incidentes
 date: 2019-09-07T05:43:53.681Z
-tags: 'travel, india, goa'
+tags: travel, india, goa
 ---
-Lorem ipsum dolor sit amet, mei in iracundia comprehensam, dicit phaedrum ea vis. Ei purto iusto quo, nonumy honestatis usu no. Eam at lorem audire eligendi. Modus iriure dignissim has in, sed ut liber dicit mediocritatem. Et sed harum graecis, vitae admodum mel et, iracundia referrentur an sea.
+Cuando ocurre un incidente se debe reportar
 
-At usu tale everti philosophia, consequat gloriatur voluptatum mel cu. Ea quo tota modus debet, ad vitae consetetur conclusionemque usu. Nam cu eripuit luptatum. At posse nemore persequeris per. Mea ut aeterno vivendo, quodsi aeterno dissentiunt te cum.
+* Reportar al coordinador HSE y al médico por whastapp u otro medio en no mas de 15 minutos:
+  		Nombre del incidentado
+  		Apellidos del incidentado
+  		Cargo del incidentado
+  		Número de identificación del incidentado.
+  		Hora evento
+  		Fecha evento
+  		Cuadrilla
+  		Lugar del evento
+  		Descripción preliminar del vento
+  		Estado del paciente
+  		Fotos del sitio donde ocurrió el evento, cerca, lejos y desde varias posiciones (con la ubicación activada)
+  		Fotos del incidentado.
+* versión libre : incidentado, testigos, jefe inmediato, persona que atiende el evento
+* reporte radio operador
+* recrear el evento: acorde con la descripción preliminar del incidente debe tomar varias fotos recreando el evento.
+* versión detallada: a los testigos y al jefe inmediato
+  fecha evento
+  hora evento
+  Departamento:
+  Cargo:
+  Lugar del evento:
+  Lugar donde se encontraba cuando ocurrió el evento
+  Hubo testigos?
+  Nombre por lo menos un testigo
+  Con qué se lastimó
+  En qué parte del cuerpo se lastimó
 
-Vim id expetenda instructior, eu dolorem temporibus vis. Delenit voluptua id eum, nobis accumsan complectitur pri ut. Eu est enim quaeque lobortis, et tale essent fabulas cum. Eu ornatus debitis nec, paulo dicam dicunt pro ea, ad eam posse nusquam. Ne quis interesset comprehensam has, ex aperiam verterem tincidunt eum. Modus vitae viderer vim cu, id nec ferri fastidii.
+  Antes de:
+  		Realizaron charla preoperativa?
+  		Indique el tema de la charla
+  	
+  		Realizaron AST desplazamiento en línea?
+  		Divulgaron AST desplazamiento en línea?
+  		Realizaron AST propio de la actividad?
+  		Divulgaron AST propio de la actividad?
+  	
+  		Qué actividad estaba haciendo el incidentado antes del evento?
+  		Qué equipo y/o herramienta estaban utilizando?
+  		Se estaban desplazando?
+  		Cómo estaba el clima?
 
-Ex legendos mandamus periculis vim, suscipit fabellas ne vim. At adhuc dicant mea, vix ea quidam voluptatum ullamcorper. Ex sea dicit theophrastus, ne sint offendit sit, wisi consequat sit ne. Sed labores utroque consectetuer no, an his inani expetenda ocurreret. Quaestio efficiantur mea ne.
+  Sitio del incidente:
+  		Clima
+  		Terreno
+  		Características mas relevantes del entorno.
 
-Tale noster timeam mea ut, etiam mnesarchum usu ne, cu sit quot ridens vulputate. Minim error qui ne, causae eruditi senserit pro ex. Epicurei qualisque ea duo, pro ei posse offendit, ad nam habeo melius. An nam brute vivendum, at vim amet sonet cotidieque. Cu debitis abhorreant nam, mel ut quot explicari.
+  Características de evento:
+  		La tarea que estaba haciendo el incidentado era rutinaria?
+  		La actividad la podía realizar una sola persona?
+  		La actividad la estaba realizando en grupo?
+  	
+  		Cuentan con botiquín de primeros auxilios?
+  		Tiene el botiquín una guía de primeros auxilios, sabe utilizarla?
+  		Fué necesario brindarle primeros auxilios?
+  		El evento lo atendió un auxiliar HSE?
+  		Reportó el evento?
+  		A quién reportó el evento?
+  		Por qué medio reportó el evento?
+  		A qué hora reportó el evento?
+  		En qué fecha reportó el evento?.
+
+  Durante
+  		Estaba en el sitio del incidente?
+  		Qué hizo cuando se enteró/presenció del incidente?
+
+  Después:
+  		Relate los hechos después del incidente
+  	
+  Por qué cree que pasó el incidente
+
+  A qué cree que se debió el incidente
+
+  Cómo cree que se pudo evitar el incidente?
+
+  Nombre y firma.
+
+Adjuntar:
+	Charla preoperativa del día del incidente.
+	AST de desplazamiento en línea.
+	AST propio de la actividad.
+	Inspección botiquín primeros auxilios.
+	Inspecciones que haya realizado al equipo y/o herramienta.
+	Copia de la inducción específica al cargo.
