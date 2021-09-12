@@ -24,9 +24,9 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Jane presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+						Propuesta realizada por Sebastian López como guía para los auxiliares
+						nuevo y antiguos que quieran mejorar su desempeño en las actividades
+						en campo.
 					</div>
 					<div class={style.author}>- The Local Newspaper</div>
 				</div>
