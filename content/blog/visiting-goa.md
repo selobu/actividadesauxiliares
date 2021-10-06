@@ -34,47 +34,44 @@ Cuando ocurre un incidente se debe reportar
   En qué parte del cuerpo se lastimó
 
   Antes de:
-  		Realizaron charla preoperativa?
-  		Indique el tema de la charla
-  	
-  		Realizaron AST desplazamiento en línea?
-  		Divulgaron AST desplazamiento en línea?
-  		Realizaron AST propio de la actividad?
-  		Divulgaron AST propio de la actividad?
-  	
-  		Qué actividad estaba haciendo el incidentado antes del evento?
-  		Qué equipo y/o herramienta estaban utilizando?
-  		Se estaban desplazando?
-  		Cómo estaba el clima?
+  		
+  * Realizaron charla preoperativa?
+  * Indique el tema de la charla
+  * Realizaron AST desplazamiento en línea?
+  * Divulgaron AST desplazamiento en línea?
+  * Realizaron AST propio de la actividad?
+  * Divulgaron AST propio de la actividad?
+  * Qué actividad estaba haciendo el incidentado antes del evento?
+  * Qué equipo y/o herramienta estaban utilizando?
+  * Se estaban desplazando?
+  * Cómo estaba el clima?
 
   Sitio del incidente:
-  		Clima
-  		Terreno
-  		Características mas relevantes del entorno.
+  * Clima
+  * Terreno
+  * Características mas relevantes del entorno.
 
   Características de evento:
-  		La tarea que estaba haciendo el incidentado era rutinaria?
-  		La actividad la podía realizar una sola persona?
-  		La actividad la estaba realizando en grupo?
-  	
-  		Cuentan con botiquín de primeros auxilios?
-  		Tiene el botiquín una guía de primeros auxilios, sabe utilizarla?
-  		Fué necesario brindarle primeros auxilios?
-  		El evento lo atendió un auxiliar HSE?
-  		Reportó el evento?
-  		A quién reportó el evento?
-  		Por qué medio reportó el evento?
-  		A qué hora reportó el evento?
-  		En qué fecha reportó el evento?.
+  * La tarea que estaba haciendo el incidentado era rutinaria?
+  * La actividad la podía realizar una sola persona?
+  * La actividad la estaba realizando en grupo?
+  * Cuentan con botiquín de primeros auxilios?
+  * Tiene el botiquín una guía de primeros auxilios, sabe utilizarla?
+  * Fue necesario brindarle primeros auxilios?
+  * El evento lo atendió un auxiliar HSE?
+  * Reportó el evento?
+  * A quién reportó el evento?
+  * Por qué medio reportó el evento?
+  * A qué hora reportó el evento?
+  * En qué fecha reportó el evento?.
 
   Durante
-  		Estaba en el sitio del incidente?
-  		Qué hizo cuando se enteró/presenció del incidente?
+  * Estaba en el sitio del incidente?
+  * Qué hizo cuando se enteró/presenció del incidente?
 
   Después:
-  		Relate los hechos después del incidente
-  	
-  Por qué cree que pasó el incidente
+  * Relate los hechos después del incidente
+  * Por qué cree que pasó el incidente
 
   A qué cree que se debió el incidente
 
@@ -83,9 +80,9 @@ Cuando ocurre un incidente se debe reportar
   Nombre y firma.
 
 Adjuntar:
-	Charla preoperativa del día del incidente.
-	AST de desplazamiento en línea.
-	AST propio de la actividad.
-	Inspección botiquín primeros auxilios.
-	Inspecciones que haya realizado al equipo y/o herramienta.
-	Copia de la inducción específica al cargo.
+  * Charla preoperativa del día del incidente.
+  * AST de desplazamiento en línea.
+  * AST propio de la actividad.
+  * Inspección botiquín primeros auxilios.
+  * Inspecciones que haya realizado al equipo y/o herramienta.
+  * Copia de la inducción específica al cargo.
