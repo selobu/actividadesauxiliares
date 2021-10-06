@@ -69,7 +69,7 @@ Cuando ocurre un incidente se debe reportar
   * Estaba en el sitio del incidente?
   * Qué hizo cuando se enteró/presenció del incidente?
 
-  Después:
+  Después
   * Relate los hechos después del incidente
   * Por qué cree que pasó el incidente
 
@@ -79,7 +79,7 @@ Cuando ocurre un incidente se debe reportar
 
   Nombre y firma.
 
-Adjuntar:
+Adjuntar
   * Charla preoperativa del día del incidente.
   * AST de desplazamiento en línea.
   * AST propio de la actividad.
