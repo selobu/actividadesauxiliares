@@ -6,22 +6,22 @@ tags: travel, india, goa
 Cuando ocurre un incidente se debe reportar
 
 * Reportar al coordinador HSE y al médico por whastapp u otro medio en no mas de 15 minutos:
-  		Nombre del incidentado
-  		Apellidos del incidentado
-  		Cargo del incidentado
-  		Número de identificación del incidentado.
-  		Hora evento
-  		Fecha evento
-  		Cuadrilla
-  		Lugar del evento
-  		Descripción preliminar del vento
-  		Estado del paciente
-  		Fotos del sitio donde ocurrió el evento, cerca, lejos y desde varias posiciones (con la ubicación activada)
-  		Fotos del incidentado.
-* versión libre : incidentado, testigos, jefe inmediato, persona que atiende el evento
-* reporte radio operador
-* recrear el evento: acorde con la descripción preliminar del incidente debe tomar varias fotos recreando el evento.
-* versión detallada: a los testigos y al jefe inmediato
+  * Nombre del incidentado
+  * Apellidos del incidentado
+  * Cargo del incidentado
+  * Número de identificación del incidentado.
+  * Hora evento
+  * Fecha evento
+  * Cuadrilla
+  * Lugar del evento
+  * Descripción preliminar del evento
+  * Estado del paciente
+  * Fotos del sitio donde ocurrió el evento, cerca, lejos y desde varias posiciones (con la ubicación activada)
+  * Fotos del incidentado.
+* Versión libre : incidentado, testigos, jefe inmediato, persona que atiende el evento
+* Reporte radio operador
+* Recrear el evento: acorde con la descripción preliminar del incidente debe tomar varias fotos recreando el evento.
+* Versión detallada: a los testigos y al jefe inmediato
   fecha evento
   hora evento
   Departamento:
