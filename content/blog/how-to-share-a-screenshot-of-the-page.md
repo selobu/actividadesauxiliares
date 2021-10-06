@@ -1,17 +1,22 @@
 ---
 title: Adecuaciones
 date: 2019-09-07T05:42:28.441Z
-subtitle: If you have ever built an application which needs to take a screenshot
-  of itself, then this blog tells you how to do the same for web.
-cover: /assets/cody-black-nm89mzvar5i-unsplash.jpg
-tags: technology, javascript
+subtitle: Actividades realizadas por el personal de HSE, relacionado con adecuaciones
+cover: /assets/whatsapp-image-2021-09-07-at-16.54.38.jpeg
+tags: Puentes, adecuaciones
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sodales neque sodales ut etiam sit amet nisl purus in. Nunc sed augue lacus viverra vitae congue eu. At augue eget arcu dictum varius. Et ligula ullamcorper malesuada proin. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Mauris in aliquam sem fringilla ut morbi tincidunt. In vitae turpis massa sed elementum tempus egestas. Neque gravida in fermentum et sollicitudin ac orci phasellus. Nibh praesent tristique magna sit amet purus gravida. Nibh sed pulvinar proin gravida hendrerit. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. A iaculis at erat pellentesque adipiscing commodo elit at. At varius vel pharetra vel turpis nunc eget lorem. Ultrices in iaculis nunc sed augue. Senectus et netus et malesuada fames ac turpis egestas.
+En campo uno de las labores del auxiliar HSE consiste en hacer adecuaciones para reducir el riesgo por los peligros locativos en el área de trabajo a saber:
 
-Neque vitae tempus quam pellentesque nec nam aliquam sem. Praesent tristique magna sit amet. Blandit massa enim nec dui nunc. Ultrices vitae auctor eu augue ut lectus arcu bibendum at. Mauris augue neque gravida in fermentum et sollicitudin ac. Arcu risus quis varius quam quisque id diam vel. Tortor aliquam nulla facilisi cras fermentum. Sit amet tellus cras adipiscing. Convallis aenean et tortor at risus viverra adipiscing. Porttitor eget dolor morbi non. Cras pulvinar mattis nunc sed blandit libero volutpat sed. Et leo duis ut diam quam. Accumsan sit amet nulla facilisi. Leo urna molestie at elementum eu facilisis sed odio morbi. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Eros in cursus turpis massa tincidunt dui ut ornare. Vel fringilla est ullamcorper eget nulla facilisi. Nec nam aliquam sem et tortor. Eu consequat ac felis donec.
 
-Quis enim lobortis scelerisque fermentum dui faucibus. Pulvinar sapien et ligula ullamcorper malesuada proin. Commodo nulla facilisi nullam vehicula ipsum. Facilisis gravida neque convallis a cras semper. Duis convallis convallis tellus id interdum velit laoreet id donec. Eget mauris pharetra et ultrices neque ornare aenean euismod elementum. Justo donec enim diam vulputate ut pharetra. Elementum integer enim neque volutpat. Est velit egestas dui id ornare. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. Justo nec ultrices dui sapien eget mi proin sed libero. Egestas erat imperdiet sed euismod nisi porta. Facilisis mauris sit amet massa vitae tortor condimentum lacinia. Cursus in hac habitasse platea dictumst quisque sagittis. Amet consectetur adipiscing elit pellentesque habitant morbi.
 
-Morbi tempus iaculis urna id volutpat lacus. Sit amet venenatis urna cursus eget nunc scelerisque viverra. Amet risus nullam eget felis. Sit amet purus gravida quis blandit. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Ut lectus arcu bibendum at varius vel pharetra vel turpis. Scelerisque viverra mauris in aliquam sem fringilla ut. Fringilla urna porttitor rhoncus dolor purus. Id velit ut tortor pretium viverra suspendisse potenti nullam. Dignissim convallis aenean et tortor at risus viverra adipiscing at. Donec enim diam vulputate ut. Mauris a diam maecenas sed enim ut sem.
+**Puentes:** Hacer puentes en cuerda como puentes tibetanos u otro tipo, si bien los puentes tibetanos son mas seguros para cruzar tienen dos desventajas el tiempo que se gasta en construirlo y la dificultad para el personal de restauración para desarmarlos.
 
-Fames ac turpis egestas integer eget aliquet nibh praesent. Magna fringilla urna porttitor rhoncus dolor. Mauris commodo quis imperdiet massa tincidunt nunc. Enim sed faucibus turpis in eu mi bibendum. Bibendum enim facilisis gravida neque convallis. Proin fermentum leo vel orci. Id velit ut tortor pretium viverra suspendisse potenti nullam ac. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Ac felis donec et odio. Mauris a diam maecenas sed enim ut sem viverra aliquet. Sollicitudin nibh sit amet commodo nulla facilisi.
+**Escalones:** En pendientes resbalosas o cuando el ángulo de inclinación es alto mas de 20°, en cuyo caso es mejor buscar variantes porque sería el equivalente a trabajo en alturas. Para hacer los escalones se puede pedir prestado un palin y solicitar la ayuda del personal de la cuadrilla para esta actividad.
+
+**Apoyo apícola:** Reubicar abejas, esta actividad se debe de hacer con el equipo adecuado (trabaje apícola) y por ser una actividad de alto riesgo se debe de realizar con un permiso de trabajo por escrito que va firmado por el ejecutante, el responsable por parte de HSE y el jefe de grupo o quien haga sus veces.
+
+En todo caso se debe de evaluar la necesidad de hacer el apoyo apícola, por ejemplo si solo se debe ubicar equipos sin perforar, el auxiliar se pondrá el trabaja, ubica el equipo y así evitamos hacer el apoyo apícola.
+
+También se evaluará la posibilidad de crear variantes.
+
+**Reubicar avispas:** Cuando sea necesario y sea posible se deberá reubicar las avispas para que la cuadrilla pueda trabajar.
