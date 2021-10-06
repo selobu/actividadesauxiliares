@@ -15,7 +15,7 @@ En campo uno de las labores del auxiliar HSE consiste en hacer adecuaciones para
 
 **Apoyo apícola:** Reubicar abejas, esta actividad se debe de hacer con el equipo adecuado (trabaje apícola) y por ser una actividad de alto riesgo se debe de realizar con un permiso de trabajo por escrito que va firmado por el ejecutante, el responsable por parte de HSE y el jefe de grupo o quien haga sus veces.
 
-En todo caso se debe de evaluar la necesidad de hacer el apoyo apícola, por ejemplo si solo se debe ubicar equipos sin perforar, el auxiliar se pondrá el trabaja, ubica el equipo y así evitamos hacer el apoyo apícola.
+En todo caso se debe de evaluar la necesidad de hacer el apoyo apícola, por ejemplo si solo se debe ubicar equipos sin perforar, el auxiliar se pondrá el traje, ubica el equipo y así evitamos hacer el apoyo apícola.
 
 ![](/assets/whatsapp-image-2021-09-06-at-16.41.19-1-.jpeg)
 
